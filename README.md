@@ -33,3 +33,13 @@
   Connection à internet wifi 2.5G SSID/Mot de passe 
  
   Compte [Blynk](https://blynk.io/en/getting-started)
+  
+  ## Dépendances : 
+  
+  https://github.com/blynkkk/blynk-library
+  https://github.com/adafruit/Adafruit_Sensor
+  https://github.com/adafruit/DHT-sensor-library
+  https://github.com/adafruit/Adafruit_NeoPixel
+  
+  
+  

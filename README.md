@@ -12,7 +12,7 @@
   
   DHT22 (1x)
   
-  vis 3mm/6mm (x4)
+  vis 3mm/6mm hexagonale creuse (x4)
   
   Collier de sérage nylon (x2) 
   

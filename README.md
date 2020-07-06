@@ -2,6 +2,8 @@
 # Thermomêtre connecté 
 
 
+![Bly preview](https://raw.githubusercontent.com/flug/thermo/master/Blynk_preview.jpg)
+
 ## Matèriel nécessaire : 
 
   ESP8266 (wemos) (1x)

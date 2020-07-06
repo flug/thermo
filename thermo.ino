@@ -70,7 +70,7 @@ int cYellow[3] = {255,255,0};
 int cGreen[3] = {0,255,0};
 int cBlue[3] = {0,175,255};
 int cPurple[3] = {255,0,255};
-int cWhite[3] = {255,0,255};
+int cWhite[3] = {255,255,255};
 
 
 

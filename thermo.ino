@@ -118,11 +118,11 @@ void setTemp(int pixelIndex, int temp)
     setColors(pixelIndex, cWhite[0], cWhite[1], cWhite[2]);
    
   }
-   else if (temp <= 0 || temp <=18)
+   else if (temp <= 1 || temp <=18)
   {
     setColors(pixelIndex, cBlue[0], cBlue[1], cBlue[2]);
   }
-  else if (temp <= 18 || temp <= 21)
+  else if (temp <= 19 || temp <= 21)
   {
     setColors(pixelIndex, cGreen[0], cGreen[1], cGreen[2]);
   }

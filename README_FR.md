@@ -1,9 +1,9 @@
-# Thermometer connected 
+# Thermomètre connecté 
 
 
 ![Bly preview](https://raw.githubusercontent.com/flug/thermo/master/Blynk_preview.jpg)
 
-## Required equipment : 
+## Matèriel nécessaire : 
 
   ESP8266 (wemos) (1x)
   
@@ -11,27 +11,27 @@
   
   DHT22 (1x)
   
-  screw 3mm/6mm hexagonal (x4)
+  vis 3mm/6mm hexagonale creuse (x4)
   
-  Nylon clamps (x2) 
+  Collier de sérage nylon (x2) 
   
-  copper wires
+  fils de cuivre 
   
-  tin
-  
-  
-  --- 
-  
-  3d Printer
-
-  Soldering iron
+  étain 
   
   
   --- 
   
-  Internet wifi 2.5G SSID/Password 
+  Imprimante 3D fdm
+  
+  Fer à souder 
+  
+  
+  --- 
+  
+  Connection à internet wifi 2.5G SSID/Mot de passe 
  
-  Account [Blynk](https://blynk.io/en/getting-started)
+  Compte [Blynk](https://blynk.io/en/getting-started)
   
   ## Dépendances : 
 
